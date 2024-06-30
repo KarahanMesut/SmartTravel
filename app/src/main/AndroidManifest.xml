@@ -41,7 +41,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCC4SjfSU1_KBhTrQ-h7Wtgzd7jpaT5zsI" />
+            android:value="YOUR_API_KEY_HERE" />
 
         <service
             android:name="com.mesutkarahan.fotografpaylasim.model.MyFirebaseMessagingService"
